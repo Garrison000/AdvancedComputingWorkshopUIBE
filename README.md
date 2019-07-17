@@ -12,12 +12,9 @@ This is a workshop hosted by [School of International Trade and Economics (SITE)
 
   This topic covers:
 
-  1. **Beyond Plain Python**. 
-  Introducing tricks while using IPython and commands frequently used in Linux.
-  2. **Multi-Treading in Python**. 
-  Introducing Python's multi-threading classes, as well as communication mechanisms between threads.
-  3. **Parallel Computing with Multiple Cores and Cluster Computing**.
-  Introducing multicore programming, asynchronous calling mechanisms in Python
+  1. **Beyond Plain Python**. Introduces tricks while using IPython and commands frequently used in Linux.
+  2. **Multi-Treading in Python**. Introduces Python's multi-threading classes, as well as communication mechanisms between threads.
+  3. **Parallel Computing with Multiple Cores and Cluster Computing**. Introduces multicore programming, asynchronous calling mechanisms in Python
 
 - Cloud Computing
 
