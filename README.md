@@ -1,21 +1,29 @@
 # Advanced Computing Workshop, UIBE-SITE 2019
 
-This is a workshop hosted by [School of International Trade and Economics(SITE)](http://site.uibe.edu.cn/) in 2019's summer. It indends to provide training in computing-related programming for teachers as well as undergraduates.
+This is a workshop hosted by [School of International Trade and Economics (SITE)](http://site.uibe.edu.cn/) in 2019's summer. It intends to provide training in computing-related programming for teachers as well as undergraduates.
 
-## Main topics
+## Main Topics
 
-- parallel computing
+- Python Parallel Computing
 
-  - multi-Threading in Python
-  - multi-processing in Python
-  - parallel computing using IPython
-  - Futures in Python
+As a workhorse of data science, python provides multiple ways to perform parallel computing. There are also constantly updating parallel computing means provided by open-source packages.
 
-- cloud computing
+In the aspect of parallel computing, the workshop focuses on implementation via Python and IPython. As a supplement, some frequently used Linux commands will be introduced in case that you perform your tasks in Linux environment.
 
-- machine learning
+This topic covers:
 
-- recommending system
+  1. **Beyond Plain Python**. 
+  Introducing tricks while using IPython and commands frequently used in Linux.
+  2. **Multi-Treading in Python**. 
+  Introducing Python's multi-threading classes, as well as communication mechanisms between threads.
+  3. **Parallel Computing with Multiple Cores and Cluster Computing**.
+  Introducing multicore programming, asynchronous calling mechanisms in Python
+
+- Cloud Computing
+
+- Machine Learning
+
+- Recommendation System
 
 ## Sessions
 
