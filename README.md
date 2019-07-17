@@ -6,11 +6,11 @@ This is a workshop hosted by [School of International Trade and Economics (SITE)
 
 - Python Parallel Computing
 
-As a workhorse of data science, python provides multiple ways to perform parallel computing. There are also constantly updating parallel computing means provided by open-source packages.
+  As a workhorse of data science, python provides multiple ways to perform parallel computing. There are also constantly updating parallel computing means provided by open-source packages.
 
-In the aspect of parallel computing, the workshop focuses on implementation via Python and IPython. As a supplement, some frequently used Linux commands will be introduced in case that you perform your tasks in Linux environment.
+  In the aspect of parallel computing, the workshop focuses on implementation via Python and IPython. As a supplement, some frequently used Linux commands will be introduced in case that you perform your tasks in Linux environment.
 
-This topic covers:
+  This topic covers:
 
   1. **Beyond Plain Python**. 
   Introducing tricks while using IPython and commands frequently used in Linux.
